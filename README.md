@@ -21,3 +21,6 @@ We are building up a comprehensive restaurant information database system to ser
 (2) Owner View
 1.	For each cuisine type, what are the number of restaurants that offer it and the average review rates for those restaurant group by cuisine?
 2.	For a potential restaurant owner looking at Japanese cuisine, what are other Japanese restaurants name?
+
+## Tools
+Microsoft SQL Server, Tableau, RShiny
