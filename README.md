@@ -1,4 +1,4 @@
-# RestaurantRecommendation_sql
+# Restaurant Database Management and Recommendation Interface
 The project is to create a restaurant reviewing platform by building a restaurant database, visualizing business problem and designing an interactive page for restaurant recommendation with SQL, Tableau and Shiny.
 
 ## Mission Statement
